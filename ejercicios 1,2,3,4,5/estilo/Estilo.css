@@ -1,0 +1,18 @@
+a {
+    text-decoration: none;
+    color: #d81c1c;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #f8d7da;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  a:hover {
+    color: #1e57d2;
+    background-color: #ffe8e8;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
